@@ -1,0 +1,22 @@
+# Dependencies
+**/node_modules/
+
+# Local environment variables and credentials
+**/.env
+**/.env.*
+!**/.env.example
+
+# Build output
+**/dist/
+**/build/
+
+# Logs and OS/editor files
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local screenshots and submission artifacts
+/screenshots/
+/output/
